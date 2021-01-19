@@ -4,9 +4,9 @@
 
 We would like you to complete a small task. You are to code up a single website page from PSD to HTML and CSS. It must be responsive so that mobiles, tablets and desktops have tailored views (no designs provided, use your initiative!).
 
-The PSD can be seen here: [https://www.dropbox.com/s/us6d0c7t7dl7md8/home-condensed.psd?dl=0](https://www.dropbox.com/s/us6d0c7t7dl7md8/home-condensed.psd?dl=0)
+The PSD can be seen here: [https://drive.google.com/file/d/1HuozbUa5H3e4uJ55RWqmE3VOcWN-HgYf/view?usp=sharing](https://drive.google.com/file/d/1HuozbUa5H3e4uJ55RWqmE3VOcWN-HgYf/view?usp=sharing)
 
-If you are unable to open the PSD (due to no photoshop), we have sliced the images for you and provided a exported PNG to use as a reference, available here: [https://www.dropbox.com/s/pn9h586pwjl5ur3/non-photoshop-assets.zip?dl=0](https://www.dropbox.com/s/pn9h586pwjl5ur3/non-photoshop-assets.zip?dl=0)
+If you are unable to open the PSD (due to no photoshop), we have sliced the images for you and provided a exported PNG to use as a reference, available here: [https://drive.google.com/file/d/1IBCGjHvZZIw8bgIZ0xw-FNzng43_LscA/view?usp=sharing](https://drive.google.com/file/d/1IBCGjHvZZIw8bgIZ0xw-FNzng43_LscA/view?usp=sharing)
 
 We look for pixel perfection, the closer you can make the website to the PSD the better! We build ontop of Bootstrap components so we will not frown on the use of a CSS framework.
 
